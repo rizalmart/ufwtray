@@ -5,3 +5,5 @@ Dependencies:
 * python3
 * pygobject
 * appindicator3
+* ufw
+* gufw (optional)
